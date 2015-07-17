@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ACCP.UI.Properties
+namespace ACCP.Properties
 {
 
 

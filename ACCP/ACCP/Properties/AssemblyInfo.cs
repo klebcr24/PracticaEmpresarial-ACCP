@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general sobre un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos atributos para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("ACCP.UI")]
+[assembly: AssemblyTitle("ACCP")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("ACCP.UI")]
+[assembly: AssemblyProduct("ACCP")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como identificador de typelib si este proyecto se expone a COM
-[assembly: Guid("eed841b2-df8c-4583-86cd-2d534220a297")]
+[assembly: Guid("f1fb7b4d-ff63-4e12-9f56-977d7d428fad")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //
