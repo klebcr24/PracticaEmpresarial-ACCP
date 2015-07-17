@@ -5,14 +5,13 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ACCP.UI
+namespace ACCP.Mantenimiento_Inventario
 {
-    public partial class Form2 : Form
+    public partial class FrmEditarInventario : Form
     {
-        public Form2()
+        public FrmEditarInventario()
         {
             InitializeComponent();
         }
